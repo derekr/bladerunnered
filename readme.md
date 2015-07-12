@@ -27,7 +27,7 @@ place w/ fun customizations/tricks.
 You can copy and paste this bit below to quickly get the project pulled and
 initializted w/ all dependencies.
 
-```
+```sh
 git clone git@github.com:derekr/bladerunnered.git
 cd bladerunnered
 npm install
@@ -35,7 +35,7 @@ npm install
 
 Then you can run the dev server.
 
-```
+```sh
 # runs a browserify dev server using wzrd on http://localhost:9966
 # servers index.html
 npm run dev
